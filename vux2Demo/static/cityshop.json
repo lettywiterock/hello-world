@@ -1,0 +1,46 @@
+[
+		{ id:"1", name:"炸鸡店", img:"/static/img/Thanksgiving.png", 
+		  brand:"1", star:"4.5", volume:"660", send:"0", sendCost:"8", distance:"1.8km", duration:"59",
+		  invoice:"1", life:"0", ontime:"0"
+		},
+		{ id:"2", name:"啤酒店", img:"/static/img/Thanksgiving.png", 
+		  brand:"0", star:"4.5", volume:"660", send:"0", sendCost:"8", distance:"1.8km", duration:"59",
+		  invoice:"1", life:"1", ontime:"1"
+		},
+		{ id:"3", name:"炒饭店", img:"/static/img/Thanksgiving.png", 
+		  brand:"1", star:"2.5", volume:"660", send:"0", sendCost:"8", distance:"1.8km", duration:"59",
+		  invoice:"0", life:"0", ontime:"0"
+		},
+		{ id:"4", name:"奶茶店", img:"/static/img/Thanksgiving.png", 
+		  brand:"0", star:"3.5", volume:"660", send:"0", sendCost:"8", distance:"1.8km", duration:"59",
+		  invoice:"1", life:"1", ontime:"0"
+		},
+		{ id:"5", name:"冰淇淋店", img:"/static/img/Thanksgiving.png", 
+		  brand:"1", star:"1.5", volume:"660", send:"0", sendCost:"8", distance:"1.8km", duration:"59",
+		  invoice:"1", life:"1", ontime:"0"
+		},
+		{ id:"6", name:"川菜店", img:"/static/img/Thanksgiving.png", 
+		  brand:"0", star:"5.0", volume:"660", send:"0", sendCost:"8", distance:"1.8km", duration:"59",
+		  invoice:"1", life:"1", ontime:"1"
+		},
+		{ id:"7", name:"兰州拉面店", img:"/static/img/Thanksgiving.png", 
+		  brand:"1", star:"4.0", volume:"660", send:"0", sendCost:"8", distance:"1.8km", duration:"59",
+		  invoice:"0", life:"1", ontime:"1"
+		},
+		{ id:"8", name:"鱼香妈妈菜店", img:"/static/img/Thanksgiving.png", 
+		  brand:"1", star:"4.0", volume:"660", send:"0", sendCost:"8", distance:"1.8km", duration:"59",
+		  invoice:"0", life:"1", ontime:"1"
+		},
+		{ id:"9", name:"狗不理包子店", img:"/static/img/Thanksgiving.png", 
+		  brand:"1", star:"4.7", volume:"660", send:"0", sendCost:"8", distance:"1.8km", duration:"59",
+		  invoice:"1", life:"0", ontime:"1"
+		},
+		{ id:"10", name:"全聚德烤鸭店", img:"/static/img/Thanksgiving.png", 
+		  brand:"1", star:"3.2", volume:"660", send:"0", sendCost:"8", distance:"1.8km", duration:"59",
+		  invoice:"1", life:"1", ontime:"1"
+		},
+		{ id:"11", name:"冰糖葫芦店", img:"/static/img/Thanksgiving.png", 
+		  brand:"1", star:"4.9", volume:"660", send:"0", sendCost:"8", distance:"1.8km", duration:"59",
+		  invoice:"1", life:"1", ontime:"1"
+		},
+]
