@@ -1,3 +1,3 @@
-# hello-world
-这是自己写的vue2.0+vux的项目
-路由用的resouce还没改
+# myCV
+这是自己做的个人简历页面
+使用了antdpro与antdUI
